@@ -28,7 +28,7 @@ class TestCookieLogin(object):
         # 3.登录后，获取cookie
         cookies = self.driver.get_cookies()
         # 4.保存cookie
-        with open("../datas/cookies.yaml", "w") as f:
+        with open("../wework_po/datas/cookies.yaml", "w") as f:
             # python对象转成yaml格式
             yaml.safe_dump(data=cookies, stream=f)
 
@@ -37,7 +37,7 @@ class TestCookieLogin(object):
         # 1.访问企业微信主页
         self.driver.get("https://work.weixin.qq.com/wework_admin/frame")
         # 2.获取本地的cookies
-        with open("../datas/cookies.yaml", "r", encoding="utf-8") as f:
+        with open("../wework_po/datas/cookies.yaml", "r", encoding="utf-8") as f:
             cookies = yaml.safe_load(f)
         # 3.植入cookies
         for cookie in cookies:

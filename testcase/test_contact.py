@@ -20,7 +20,7 @@ class TestAddMember(object):
         # 1.访问企业微信主页
         self.driver.get("https://work.weixin.qq.com/wework_admin/frame")
         # 2.获取本地的cookies
-        with open("../datas/cookies.yaml", "r", encoding="utf-8") as f:
+        with open("../wework_po/datas/cookies.yaml", "r", encoding="utf-8") as f:
             cookies = yaml.safe_load(f)
         # 3.植入cookies
         for cookie in cookies:

@@ -1,0 +1,206 @@
+[2022-12-20 19:34:44] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 19:34:48] [INFO] [login_page.py]/[line: 12]/[login] cookie登录 
+[2022-12-20 19:37:50] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 19:37:54] [INFO] [login_page.py]/[line: 12]/[login] cookie登录 
+[2022-12-20 20:07:22] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 20:07:26] [INFO] [login_page.py]/[line: 12]/[login] cookie登录 
+[2022-12-20 20:09:04] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 20:09:08] [INFO] [login_page.py]/[line: 12]/[login] cookie登录 
+[2022-12-20 20:10:10] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 20:10:13] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 20:10:17] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 20:10:17] [INFO] [home_page.py]/[line: 13]/[click_add_member] 点击【添加成员】 
+[2022-12-20 20:10:17] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.index_service_cnt_item_title'), None) 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 20:10:21] [INFO] [add_member_page.py]/[line: 15]/[fill_info] 输入内容 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容陈桂英 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'username'), None) 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容430224196712139924 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_acctid'), None) 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容13169342567 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_phone'), None) 
+[2022-12-20 20:10:21] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_btn_save'), None) 
+[2022-12-20 20:10:22] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 20:10:22] [INFO] [contact_page.py]/[line: 12]/[get_tips] 获取添加成功提示 
+[2022-12-20 20:10:22] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'js_tips'), None) 
+[2022-12-20 21:50:51] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 21:50:53] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 21:50:56] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 21:50:56] [INFO] [home_page.py]/[line: 13]/[click_add_member] 点击【添加成员】 
+[2022-12-20 21:50:56] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.index_service_cnt_item_title'), None) 
+[2022-12-20 21:50:56] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 21:50:56] [INFO] [add_member_page.py]/[line: 15]/[fill_info] 输入内容 
+[2022-12-20 21:50:56] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容田荣 
+[2022-12-20 21:50:56] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'username'), None) 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容410702194110274404 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_acctid'), None) 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容18205275243 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_phone'), None) 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_btn_save'), None) 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 21:50:57] [INFO] [contact_page.py]/[line: 12]/[get_tips] 获取添加成功提示 
+[2022-12-20 21:50:57] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'js_tips'), None) 
+[2022-12-20 22:04:27] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:04:30] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:04:32] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:04:32] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:04:32] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:22:06] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:22:09] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:22:12] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:22:12] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:22:12] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:27:53] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:27:56] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:27:58] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:27:58] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:27:58] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:28:51] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:28:54] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:28:56] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:28:56] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:28:56] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:28:57] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:32:22] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:32:25] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:32:27] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:32:27] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:32:27] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:32:28] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:34:03] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:34:06] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:34:09] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:34:09] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:34:09] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:34:10] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:34:10] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 输入内容 
+[2022-12-20 22:34:10] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容汪桂珍 
+[2022-12-20 22:34:10] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'username'), None) 
+[2022-12-20 22:34:10] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容520324195605057790 
+[2022-12-20 22:34:10] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_acctid'), None) 
+[2022-12-20 22:34:11] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容14520941405 
+[2022-12-20 22:34:11] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_phone'), None) 
+[2022-12-20 22:34:11] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_btn_save'), None) 
+[2022-12-20 22:34:11] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:34:11] [INFO] [contact_page.py]/[line: 17]/[get_tips] 获取添加成功提示 
+[2022-12-20 22:34:11] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'js_tips'), None) 
+[2022-12-20 22:50:33] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:50:37] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:50:39] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:50:39] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:50:39] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:50:40] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:16] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:57:19] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:57:22] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:22] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:57:22] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:23] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:51] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 22:57:55] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 22:57:57] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:57] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 22:57:57] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:58] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 22:57:58] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:11:02] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 23:11:07] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:11:09] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:11:10] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 23:11:10] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:11:11] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:11:11] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容('xpath', "//*[@name='name']") 
+[2022-12-20 23:11:11] [INFO] [base.py]/[line: 29]/[do_find] 查找元素('研发部', None) 
+[2022-12-20 23:12:18] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 23:12:21] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:12:23] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:12:23] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 23:12:23] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容研发部 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//*[@name='name']"), None) 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_parent_party_name'), None) 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//div[@class='inputDlg_item']//a[text()='翟羽佳科技有限公司']"), None) 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//a[text()='确定']"), None) 
+[2022-12-20 23:12:24] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:16:43] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 23:16:46] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:16:49] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:16:49] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'menu_contacts'), None) 
+[2022-12-20 23:16:49] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容测试认证处 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//*[@name='name']"), None) 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_parent_party_name'), None) 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//div[@class='inputDlg_item']//a[text()='翟羽佳科技有限公司']"), None) 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('xpath', "//a[text()='确定']"), None) 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:16:50] [INFO] [contact_page.py]/[line: 19]/[get_tips] 获取添加成功提示 
+[2022-12-20 23:16:50] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'js_tips'), None) 
+[2022-12-20 23:30:55] [INFO] [base.py]/[line: 19]/[__init__] 创建driver 
+[2022-12-20 23:30:58] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:31:01] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:31:01] [INFO] [home_page.py]/[line: 17]/[click_add_member] 企业微信主页面：点击添加成员 
+[2022-12-20 23:31:01] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.index_service_cnt_item_title'), None) 
+[2022-12-20 23:31:02] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:31:02] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:31:02] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容陈静 
+[2022-12-20 23:31:02] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'username'), None) 
+[2022-12-20 23:31:02] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容150782194002058630 
+[2022-12-20 23:31:02] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_acctid'), None) 
+[2022-12-20 23:31:03] [INFO] [base.py]/[line: 46]/[do_send_keys] 输入内容15753541507 
+[2022-12-20 23:31:03] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'memberAdd_phone'), None) 
+[2022-12-20 23:31:03] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('css selector', '.js_btn_save'), None) 
+[2022-12-20 23:31:03] [INFO] [base.py]/[line: 13]/[__init__] 复用driver 
+[2022-12-20 23:31:03] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:31:03] [INFO] [base.py]/[line: 29]/[do_find] 查找元素(('id', 'js_tips'), None) 
+[2022-12-20 23:33:05] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:33:08] [INFO] [home_page.py]/[line: 17]/[click_add_member] 企业微信主页面：点击添加成员 
+[2022-12-20 23:33:09] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:33:10] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:33:13] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:33:46] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:37:02] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:37:07] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:37:10] [INFO] [home_page.py]/[line: 17]/[click_add_member] 企业微信主页面：点击添加成员 
+[2022-12-20 23:37:10] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:37:11] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:37:17] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:37:19] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:37:19] [INFO] [contact_page.py]/[line: 25]/[contact_click_add_member] 通讯录页面：点击添加成员 
+[2022-12-20 23:37:20] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:37:21] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:37:27] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:37:30] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:37:30] [INFO] [contact_page.py]/[line: 32]/[click_add_part] 通讯录页面：点击添加部门 
+[2022-12-20 23:37:31] [INFO] [add_part_page.py]/[line: 16]/[fill_part_info] 添加部门 页面：填写部门 信息，点击保存 
+[2022-12-20 23:37:31] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:41:58] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:42:03] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:42:05] [INFO] [home_page.py]/[line: 17]/[click_add_member] 企业微信主页面：点击添加成员 
+[2022-12-20 23:42:06] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:42:07] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:42:11] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:42:13] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:42:13] [INFO] [contact_page.py]/[line: 25]/[contact_click_add_member] 通讯录页面：点击添加成员 
+[2022-12-20 23:42:14] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:42:15] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:42:19] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:42:21] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:42:21] [INFO] [contact_page.py]/[line: 32]/[click_add_part] 通讯录页面：点击添加部门 
+[2022-12-20 23:42:22] [INFO] [add_part_page.py]/[line: 16]/[fill_part_info] 添加部门 页面：填写部门 信息，点击保存 
+[2022-12-20 23:42:22] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:43:48] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:43:51] [INFO] [home_page.py]/[line: 17]/[click_add_member] 企业微信主页面：点击添加成员 
+[2022-12-20 23:43:53] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:43:53] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:43:59] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:44:02] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:44:02] [INFO] [contact_page.py]/[line: 25]/[contact_click_add_member] 通讯录页面：点击添加成员 
+[2022-12-20 23:44:02] [INFO] [add_member_page.py]/[line: 17]/[fill_info] 添加成员页面：填写成员资料，点击保存 
+[2022-12-20 23:44:03] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 
+[2022-12-20 23:44:10] [INFO] [login_page.py]/[line: 14]/[login] cookie登录 
+[2022-12-20 23:44:13] [INFO] [home_page.py]/[line: 23]/[click_contact] 企业微信主页面：点击通讯录 
+[2022-12-20 23:44:13] [INFO] [contact_page.py]/[line: 32]/[click_add_part] 通讯录页面：点击添加部门 
+[2022-12-20 23:44:14] [INFO] [add_part_page.py]/[line: 16]/[fill_part_info] 添加部门 页面：填写部门 信息，点击保存 
+[2022-12-20 23:44:14] [INFO] [contact_page.py]/[line: 19]/[get_tips] 通讯录页面：获取操作结果 

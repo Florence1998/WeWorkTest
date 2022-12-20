@@ -18,7 +18,7 @@ class TestContact(object):
         # 1.访问企业微信主页
         self.driver.get("https://work.weixin.qq.com/wework_admin/frame")
         # 2.获取本地的cookies
-        with open("../datas/cookies.yaml", "r", encoding="utf-8") as f:
+        with open("../wework_po/datas/cookies.yaml", "r", encoding="utf-8") as f:
             cookies = yaml.safe_load(f)
         # 3.植入cookies
         for cookie in cookies:
@@ -67,6 +67,7 @@ class TestContact(object):
                 return x.find_element(By.ID, "username")
             except:
                 return False
+
         # 两个条件退出显式等待的循环：1.找到元素，2.超时
         WebDriverWait(self.driver, 10).until(wait_for)
         # ======3.输入姓名、帐号、手机号
@@ -96,7 +97,6 @@ class TestContact(object):
         self.driver.find_element(By.XPATH, "//div[@class='inputDlg_item']//a[text()='翟羽佳科技有限公司']").click()
         # 4.4 点击 确定
         self.driver.find_element(By.XPATH, "//a[text()='确定']").click()
-
         # 4、验证添加成功
         result = self.driver.find_element(By.ID, "js_tips").text
         # value = self.driver.find_element().get_attribute("data-usercardinit")
